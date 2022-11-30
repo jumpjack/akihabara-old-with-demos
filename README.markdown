@@ -1,3 +1,17 @@
+Live demos:
+
+- [extra-halloffame.html](https://jumpjack.github.io/akihabara-old-with-demos/extra-halloffame.html)
+- [game-akibahero.html](https://jumpjack.github.io/akihabara-old-with-demos/game-akibahero.html)
+- [game-capman.html](https://jumpjack.github.io/akihabara-old-with-demos/game-capman.html)
+- [game-leavemealone.html](https://jumpjack.github.io/akihabara-old-with-demos/game-leavemealone.html)
+- [game-solitude.html](https://jumpjack.github.io/akihabara-old-with-demos/game-solitude.html)
+- [game-tlol.htmll](https://jumpjack.github.io/akihabara-old-with-demos/game-tlol.html)
+- [game-tspin.html](https://jumpjack.github.io/akihabara-old-with-demos/game-tspin.html)
+- [tool-settings.html](https://jumpjack.github.io/akihabara-old-with-demos/tool-settings.html)
+
+-----------------------------
+
+
 Akihabara
 =========
 
